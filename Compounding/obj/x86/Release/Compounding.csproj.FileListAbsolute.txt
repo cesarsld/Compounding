@@ -1,0 +1,3 @@
+/Users/cesarsld/Projects/Compounding/Compounding/bin/Release/Compounding.exe
+/Users/cesarsld/Projects/Compounding/Compounding/obj/x86/Release/Compounding.csproj.CoreCompileInputs.cache
+/Users/cesarsld/Projects/Compounding/Compounding/obj/x86/Release/Compounding.exe

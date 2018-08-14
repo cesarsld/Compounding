@@ -1,0 +1,5 @@
+/Users/cesarsld/Projects/Compounding/Compounding/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cesarsld/Projects/Compounding/Compounding/bin/Debug/Compounding.pdb
+/Users/cesarsld/Projects/Compounding/Compounding/bin/Debug/Compounding.exe
+/Users/cesarsld/Projects/Compounding/Compounding/obj/x86/Debug/Compounding.exe
+/Users/cesarsld/Projects/Compounding/Compounding/obj/x86/Debug/Compounding.pdb
