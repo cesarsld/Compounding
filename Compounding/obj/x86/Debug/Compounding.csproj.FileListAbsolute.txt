@@ -3,3 +3,8 @@
 /Users/cesarsld/Projects/Compounding/Compounding/obj/x86/Debug/Compounding.csproj.CoreCompileInputs.cache
 /Users/cesarsld/Projects/Compounding/Compounding/obj/x86/Debug/Compounding.exe
 /Users/cesarsld/Projects/Compounding/Compounding/obj/x86/Debug/Compounding.pdb
+/Users/cesarsld/Documents/Git Hub Repos/Compounding/Compounding/bin/Debug/Compounding.exe
+/Users/cesarsld/Documents/Git Hub Repos/Compounding/Compounding/bin/Debug/Compounding.pdb
+/Users/cesarsld/Documents/Git Hub Repos/Compounding/Compounding/obj/x86/Debug/Compounding.csproj.CoreCompileInputs.cache
+/Users/cesarsld/Documents/Git Hub Repos/Compounding/Compounding/obj/x86/Debug/Compounding.exe
+/Users/cesarsld/Documents/Git Hub Repos/Compounding/Compounding/obj/x86/Debug/Compounding.pdb

@@ -26,7 +26,7 @@ namespace Compounding
 
         public float GetInvestment(float rate)
         {
-            if(daysUntilExpiry > 0)
+            if(daysUntilExpiry >= 0)
             {
                 daysUntilExpiry--;
                 return value * rate;
